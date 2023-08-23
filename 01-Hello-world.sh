@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "...........................Hello world..............."
 P1=ramesh
 P2=suresh
