@@ -1,0 +1,261 @@
+    1  git config --global user.email "bkchaitanya07@gmail.com"
+    2  git config --global user.name "bkchaitanya07"
+    3  clear
+    4  pwd
+    5  cd Desktop/
+    6  mkdir demo
+    7  cd demo/
+    8  cd Desktop/
+    9  cd Desktop/
+   10  cd Desktop
+   11  cd new volume (D:)/
+   12  cd new volume D/
+   13  cd D/
+   14  cd Downloads/
+   15  clear
+   16  git clone
+   17  git clone 
+   18  git clone https://github.com/bkchaitanya07/demo.git
+   19  ls demo/
+   20  ls -al demo/
+   21  cd demo/
+   22  ls
+   23  clear
+   24  ssh-keygen -f devops
+   25  pwd
+   26  pwd
+   27  clear
+   28  pwd
+   29  ssh -i /c/Users/bkcha/devops.pem ec2-user@15.206.166.55
+   30  ssh -i /c/Users/bkcha/devops.pem ec2-user@15.206.166.55
+   31  ssh -i /c/Users/bkcha/devops.pem ec2-user@15.206.166.55
+   32  ssh -i /c/Users/bkcha/devops.pem ec2-user@15.206.166.55
+   33  clear
+   34  ssh -i /c/Users/bkcha/devops.pem ec2-user@3.110.148.245
+   35  ssh -i C:/Users/bkcha/devops.pem ec2-user@13.235.76.90
+   36  ssh -i C:/Users/bkcha/devops.pem ec2-user@13.235.76.90
+   37  ssh bkc@13.235.76.90
+   38  ssh bkc@13.235.76.90
+   39  sshd -t
+   40  ssh bkc@13.235.76.90
+   41  ssh -i C:/Users/bkcha/devops.pem ec2-user@13.235.76.90
+   42  pwd
+   43  git init
+   44  git remote add origin git@github.com:BKCHAITANYA/roboshop-shell.git
+   45  git add . ; git commit -m "created mongodb"; git push origin master
+   46  git add . ; git commit -m "created mongodb"; git push origin main
+   47  clear
+   48  pwd
+   49  ls -l
+   50  clear
+   51  mkdir roboshop-shell
+   52  cd roboshop-shell
+   53  pwd
+   54  git init
+   55  git remote add origin git@github.com:BKCHAITANYA/roboshop-shell.git
+   56  git add . ; git commit -m "created mongodb"; git push origin main
+   57  git add . ; git commit -m "created mongodb"; git push origin master
+   58  clear
+   59  echo "# roboshop-shell" >> README.md
+   60  git init
+   61  git add README.md
+   62  git commit -m "first commit"
+   63  git branch -M main
+   64  git remote add origin git@github.com:BKCHAITANYA/roboshop-shell.git
+   65  git push -u origin main
+   66  git remote add origin git@github.com:BKCHAITANYA/roboshop-shell.git
+   67  git branch -M main
+   68  git push -u origin main
+   69  clear
+   70  git clone https://github.com/BKCHAITANYA/roboshop-shell.git
+   71  pwd
+   72  ls 
+   73  ls -la
+   74  clear
+   75  ls
+   76  cd roboshop-shell
+   77  pwd
+   78  git branch -M master
+   79  cd /e/1_DevOps/1_JoinDevOps-AUG-2023
+   80  pwd
+   81  ls
+   82  ls
+   83  git init
+   84  clear
+   85  pwd
+   86  ls -la
+   87  git clone https://github.com/BKCHAITANYA/roboshop-shell.git
+   88  clear
+   89  ls
+   90  cd roboshop-shell
+   91  pwd
+   92  git branch -M master
+   93  ls -l
+   94  git status
+   95  git add README.MD
+   96  git commit -m "first commit"
+   97  git push origin master
+   98  git push origin master
+   99  git config --global user.email "bkchaitanya05@gmail.com"
+  100  git config --global user.name "BKCHAITANYA"
+  101  git push origin master
+  102  git remote add origin https://github.com/BKCHAITANYA/roboshop-shell.git
+  103  git remote add origin https://github.com/BKCHAITANYA/roboshop-shell.git
+  104  git push origin master
+  105  clear
+  106  pwd
+  107  cd .git
+  108  cd ..
+  109  git remote add origin git@github.com:BKCHAITANYA/roboshop-shell.git
+  110  cat .git/config
+  111  clear
+  112  git status
+  113  git status
+  114  clear
+  115  git add . ; git commit -m "first"; git push origin master
+  116  git add . ; git commit -m "first"; git push origin master
+  117  clear
+  118  ssh-keygen -f bkc
+  119  git add . ; git commit -m "first"; git push origin master
+  120  git add . ; git commit -m "first"; git push origin master
+  121  cat .git/config
+  122  git add . ; git commit -m "first"; git push origin master
+  123  git add . ; git commit -m "first"; git push origin master
+  124  git add . ; git commit -m "first"; git push origin master
+  125  git add . ; git commit -m "first"; git push origin master
+  126  git remote add origin git@github.com:BKCHAITANYA/roboshop-shell.git
+  127  clear
+  128  cat .git/config
+  129  git remote set-url origin git@github.com:BKCHAITANYA/roboshop-shell.git
+  130  cat .git/config
+  131  git add . ; git commit -m "first"; git push origin master
+  132  clear
+  133  git add . ; git commit -m "first"; git push origin master
+  134  git status
+  135  git remote set-url origin git@github.com:BKCHAITANYA/roboshop-shell.git
+  136  cat .git/config
+  137  git add . ; git commit -m "first"; git push origin master
+  138  git add README.MD ; git commit -m "first"; git push origin master
+  139  git add README.MD ; git commit -m "first"; git push origin master
+  140  cat .git/config
+  141  git status
+  142  clear
+  143  git status
+  144  git add README.MD ; git commit -m "first"; git push origin master
+  145  git add . ; git commit -m "first"; git push origin master
+  146  ssh-keygen -f bkc
+  147  clear
+  148  ssh-keygen -f bkc
+  149  clear
+  150  git remote set-url origin git@github.com:BKCHAITANYA/roboshop-shell.git
+  151  cat .git/config
+  152  git status
+  153  clear
+  154  cd /e/1_DevOps/1_JoinDevOps-AUG-2023
+  155  pwd
+  156  ls
+  157  cd roboshop-shell
+  158  ls
+  159  git status
+  160  pwd
+  161  ls
+  162  ls
+  163  clear
+  164  ls -la
+  165  git init
+  166  ls -la
+  167  clear
+  168  cat .git/config
+  169  git remote add origin git@github.com:BKCHAITANYA/roboshop-shell-1.git
+  170  cat .git/config
+  171  git status
+  172  git add . ; git commit -m "first"; git push origin master
+  173  git add . ; git commit -m "first"; git push origin master
+  174  clear
+  175  git remote add origin git@github.com:BKCHAITANYA/roboshop-shell-1.git
+  176  git branch -M main
+  177  git push -u origin main
+  178  git status
+  179  git add . ; git commit -m "first"; git push origin master
+  180  git add . ; git commit -m "first"; git push origin master
+  181  git push origin master
+  182  git add . ; git commit -m "first"
+  183  git push origin master
+  184  git push origin master
+  185  git add . ; git commit -m "first"; git push origin master
+  186  git add . ; git commit -m "first"; git push origin master
+  187  ssh-keygen -f kc
+  188  git add . ; git commit -m "first"; git push origin master
+  189  pwd
+  190  cat .git/config
+  191  cd
+  192  ssh-keygen -f kchait
+  193  cd /e/1_DevOps/1_JoinDevOps-AUG-2023
+  194  pwd
+  195  ls
+  196  cd roboshop-shell
+  197  ls
+  198  git status
+  199  git add . ; git commit -m "first"; git push origin master
+  200  git checkout -b master
+  201  git add . ; git commit -m "first"; git push origin master
+  202  git add . ; git commit -m "first"; git push origin master
+  203  git add . ; git commit -m "first"; git push origin master
+  204  git status
+  205  git add . ; git commit -m "first"; git push origin master
+  206  cd /e/1_DevOps/1_JoinDevOps-AUG-2023
+  207  ls
+  208  cd roboshop-shell
+  209  ls
+  210  git status
+  211  git add . ; git commit -m "first"; git push origin master
+  212  pwd
+  213  git add . ; git commit -m "first"; git push origin master
+  214  cat .git/config
+  215  git remote set-url origin git@github.com:BKCHAITANYA/roboshop-shell-1.git
+  216  cat .git/config
+  217  cd /e/1_DevOps/1_JoinDevOps-AUG-2023
+  218  pwd
+  219  ls
+  220  cd roboshop-shell
+  221  pwd
+  222  ls
+  223  git status
+  224  git add . ; git commit -m "first"; git push origin master
+  225  cat .git/config
+  226  git add . ; git commit -m "first"; git push origin master
+  227  git add . ; git commit -m "first"; git push origin main
+  228  git add . ; git commit -m "first"; git push origin main
+  229  git add . ; git commit -m "first"; git push origin master
+  230  cat .git/config
+  231  git add . ; git commit -m "first"; git push origin master
+  232  git add . ; git commit -m "first"; git push origin main
+  233  git push --help
+  234  git remote set-url origin git@github.com:BKCHAITANYA/roboshop-shell.git
+  235  git add . ; git commit -m "first"; git push origin master
+  236  cat .git/config
+  237  git remote set-url origin git@github.com:BKCHAITANYA/roboshop-shell-1.git
+  238  git add . ; git commit -m "first"; git push origin master
+  239  git add . ; git commit -m "first"; git push origin master
+  240  git add . ; git commit -m "first"; git push origin master
+  241  clear
+  242  git add . ; git commit -m "first"; git push origin master
+  243  git add . ; git commit -m "first"; git push origin master
+  244  cd /e/1_DevOps/1_JoinDevOps-AUG-2023
+  245  pwd
+  246  ls
+  247  cd roboshop-shell
+  248  ls
+  249  sh 01-Hello-world.sh
+  250  clear
+  251* ls -ls\\\\\\\\\\\\\\
+  252  vim 01-Hello-world.sh
+  253  sh 01-Hello-world.sh
+  254  cat .git/config
+  255  git remote set-url origin git@github.com:BKCHAITANYA/roboshop-shell.git
+  256  cat .git/config
+  257  git add . ; git commit -m "first"; git push origin master
+  258  vim 01-Hello-world.sh
+  259  git add . ; git commit -m "first"; git push origin master
+  260  history
+  261  history >> commands1.sh
