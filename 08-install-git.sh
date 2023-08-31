@@ -1,8 +1,10 @@
 #!/bin/bash
 USERID=$(id -u)
-if [ USERID -ne 0 ]
+if [ $USERID -ne 0 ]
 then
     echo "Error: Please run the script with root access"
 else 
     echo "you are root user"
 fi
+
+yum install git -y
