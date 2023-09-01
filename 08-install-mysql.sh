@@ -16,3 +16,4 @@ yum install mysql -y
     exit 1
 else
     echo "mysql installation success"
+fi
