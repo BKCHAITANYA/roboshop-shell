@@ -7,4 +7,6 @@ echo "variable1: $VAR1"
 
 echo "variable2: $VAR2"
 
-echo "variable2: $@"
+echo "all variable: $@"
+
+echo "number of vars passed: $#"
