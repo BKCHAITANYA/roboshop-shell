@@ -1,12 +1,13 @@
 #!/bin/bash
 USERID=$(id -u)
 VALIDATE(){
+    # $1 will receive the argument1
     if [ $1 -ne 0 ]
     then
-        echo "Installation ...FAILURE"
+        echo "$2 ...FAILURE"
         exit 1
     else 
-        echo "Installation ...SUCCESS"
+        echo "$2 ...SUCCESS"
     fi
 }
 if [ $USERID -ne 0 ]
@@ -17,24 +18,13 @@ else
     echo "you are root user"
 fi
 
+# it is our responsibility to ensure that installation is success or not
+
 yum install mysql -y
 
-VALIDATE $?
-
-if [ $? -ne 0 ]
-then
-    echo "mysql installation error"
-    exit 1
-else
-    echo "mysql installation success"
-fi
+VALIDATE $? "Installation MySQL"
 
 yum install postfix -y
 
-if [ $? -ne 0 ]
-then
-    echo "postfix installation error"
-    exit 1
-else
-    echo "postfix installation success"
-fi
+VALIDATE $? "Installation postfix"
+
