@@ -4,6 +4,7 @@ VALIDATE(){
     # $1 will receive the argument1
     if [ $1 -ne 0 ]
     then
+       # $2 will receive the argument1
         echo "$2 ...FAILURE"
         exit 1
     else 
@@ -26,5 +27,5 @@ VALIDATE $? "Installation MySQL"
 
 yum install postfix -y
 
-VALIDATE $? "Installation postfix"
+VALIDATE $? # "Installation postfix"
 
