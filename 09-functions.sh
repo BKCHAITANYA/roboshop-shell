@@ -1,5 +1,14 @@
 #!/bin/bash
 USERID=$(id -u)
+VALIDATE(){
+    if [ $1 -ne 0 ]
+    then
+        echo "Installation ...FAILURE"
+        exit 1
+    else 
+        echo "Installation ...SUCCESS"
+    fi
+}
 if [ $USERID -ne 0 ]
 then
     echo "Error: Please run the script with root access"
@@ -9,7 +18,8 @@ else
 fi
 
 yum install mysql -y
-# $1 is checking exit status
+
+VALIDATE $?
 
 if [ $? -ne 0 ]
 then
