@@ -1,7 +1,7 @@
 #!/bin/bash
 USERID=$(id -u)
 VALIDATE(){
-    # $1 will receive the argument1
+    # $1 will receive the argument1 from command = (VALIDATE $? "Installation MySQL")
     if [ $1 -ne 0 ]
     then
        # $2 will receive the argument1
@@ -27,5 +27,5 @@ VALIDATE $? "Installation MySQL"
 
 yum install postfix -y
 
-VALIDATE $? # "Installation postfix"
+VALIDATE $? "Installation postfix"
 
