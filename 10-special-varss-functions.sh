@@ -4,16 +4,20 @@
 DATE=$(date +%F)
 SCRIPT_NAME=$0
 LOGFILE=/tmp/$SCRIPT_NAME-$DATE.log
-  
+
+R="\e[31m"
+G="\e[32m"
+N="\e[0m"
+
 VALIDATE(){
     # $1 will receive the argument1 from command = (VALIDATE $? "Installation MySQL")
     if [ $1 -ne 0 ]
     then
        # $2 will receive the argument1
-        echo "$2 ...FAILURE"
+        echo -e "$2 ...$R FAILURE $N"
         exit 1
     else 
-        echo "$2 ...SUCCESS"
+        echo -e "$2 ...$G SUCCESS $N"
     fi
 }
 
