@@ -1,4 +1,7 @@
 #!/bin/bash
+DATE=$(date +%F-%H-%M-%S)
+LOGFILE=/tmp/
+
 USERID=$(id -u)
 VALIDATE(){
     # $1 will receive the argument1 from command = (VALIDATE $? "Installation MySQL")

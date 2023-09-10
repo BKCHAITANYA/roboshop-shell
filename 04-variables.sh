@@ -1,6 +1,7 @@
 #!/bin/bash
 
-## add only same data types int, float, string, boolean
+## add only same data types
+## not other types int, float, string, boolean
 a=$1
 b=$2
 
